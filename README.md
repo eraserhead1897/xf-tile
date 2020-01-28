@@ -7,6 +7,7 @@ A script to auto-tile up to 4 windows on your current workspace. It Supports 9 w
 <br />
 **Why?**<br />
 If you want to stay with XFCE, but you want some basic tiling manager functionality without the hassle to install a different WM, then this script may be a good bet.<br />
+<br />
 **Dependencies**<br />
 wmctrl<br />
 devilspie2<br />
