@@ -26,7 +26,7 @@ app_to_exclude = applications to exclude from the tiling manager<br />
 app_to_mod = some applications don't detect decorations correctly (for example kitty and vlc), if thats the case put the app name here (to see app names run on a terminal "devilspie2 --debug")<br />
 <br />
 **Shortcuts**<br />
-These shortcuts must be edited inside the script, line 156.<br />
+These shortcuts must be edited inside the script (line 156) and removed from XFCE settings to avoids conflicts.<br />
 Super+e        = Set Mode (Tiled/Fullscreen)<br />
 Super+CTRL=e   = Tiling Manager On/Off<br />
 Super+CTRL+r   = Reload Config File<br />
