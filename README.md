@@ -3,7 +3,7 @@ Pseudo Tiling window manager for Xfce DE<br />
 <br />
 **What it is?**<br />
 A script to auto-tile up to 4 windows on your current workspace. It Supports 9 workspaces. After the 4th window, it will automatically enter full screen mode.<br />
-<br /><br />
+<br />
 **Dependencies**<br />
 wmctrl<br />
 devilspie2<br />
@@ -26,7 +26,7 @@ app_to_exclude = applications to exclude from the tiling manager<br />
 app_to_mod = some applications don't detect decorations correctly (for example kitty and vlc), if thats the case put the app name here (to see app names run on a terminal "devilspie2 --debug")<br />
 <br />
 **Shortcuts**<br />
-Shortcuts must be edited inside the script, line 156.<br />
+These shortcuts must be edited inside the script, line 156.<br />
 Super+e        = Set Mode (Tiled/Fullscreen)<br />
 Super+CTRL=e   = Tiling Manager On/Off<br />
 Super+CTRL+r   = Reload Config File<br />
