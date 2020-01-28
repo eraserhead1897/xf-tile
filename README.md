@@ -17,11 +17,11 @@ I tried to make it as integrated with XFCE as possible. For example, most shortc
 If you like XFCE, but you want a more keyboard-driven experience or some basic tiling manager functionality without the hassle to install a different WM, then this script may be a good bet.<br />
 <br />
 **Dependencies**<br />
-wmctrl<br />
-devilspie2<br />
-pynput (install with pip)<br />
-xorg-xev<br />
-xorg-xrandr <br />
+[wmctrl](https://linux.die.net/man/1/wmctrl)<br />
+[devilspie2](http://www.nongnu.org/devilspie2/)<br />
+[pynput](https://pypi.org/project/pynput/) (install with pip)<br />
+[xorg-xev](https://www.x.org/releases/X11R7.7/doc/man/man1/xev.1.xhtml)<br />
+[xorg-xrandr](https://www.x.org/wiki/Projects/XRandR/)<br />
 <br />
 **Installation** <br />
 Install dependencies. Put xf-tile.py and xf-tile_config.json (edit with right values) inside your home directory. Put devilspie2 folder inside your .config folder.
