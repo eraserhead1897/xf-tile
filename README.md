@@ -1,16 +1,16 @@
 # xf-tile
-Pseudo Tiling window manager for Xfce DE
+Pseudo Tiling window manager for Xfce DE<br />
 <br />
 **What it is?**<br />
 A script to auto-tile up to 4 windows on your current workspace. It Supports 9 workspaces. After the 4th window, it will automatically enter full screen mode.<br />
-<br />
+<br /><br />
 **Dependencies**<br />
 wmctrl<br />
 devilspie2<br />
 pynput (install with pip)<br />
 xorg-xev<br />
 xorg-xrandr<br />
-<br />
+<br /><br />
 **Installation** <br />
 Install dependencies. Put xf-tile.py and xf-tile_config.json inside your home directory. Put devilspie2 folder inside your .config folder.
 Add xf-tile.py to your startup. (easisiest way: go to settings -> session and startup -> application autostart -> add -> Name: xf-tile | Command: python /home/$user/xf-tile.py | Trigger: on login) $replace user with your username
