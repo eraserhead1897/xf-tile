@@ -16,8 +16,9 @@ xorg-xev<br />
 xorg-xrandr <br />
 <br />
 **Installation** <br />
-Install dependencies. Put xf-tile.py and xf-tile_config.json inside your home directory. Put devilspie2 folder inside your .config folder.
+Install dependencies. Put xf-tile.py and xf-tile_config.json (edit with right values) inside your home directory. Put devilspie2 folder inside your .config folder.
 Add xf-tile.py to your startup. (easisiest way: go to settings -> session and startup -> application autostart -> add -> Name: xf-tile | Command: python /home/$user/xf-tile.py | Trigger: on login) $replace user with your username<br />
+Launch script or reboot.<br />
 <br />
 **Configuration**<br />
 max_windows_before_fullscreen = how many windows before activating full screen mode. MAX 4<br />
