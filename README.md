@@ -6,7 +6,7 @@ Pseudo Tiling window manager for Xfce DE<br />
 A script to auto-tile up to 4 windows on your current workspace. It Supports 9 workspaces. After the 4th window, it will automatically enter full screen mode.<br />
 <br />
 **Why?**<br />
-If you want to stay with XFCE, but you want some basic tiling manager functionality without the hassle to install a different WM, then this script may be a good bet.
+If you want to stay with XFCE, but you want some basic tiling manager functionality without the hassle to install a different WM, then this script may be a good bet.<br />
 **Dependencies**<br />
 wmctrl<br />
 devilspie2<br />
