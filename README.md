@@ -21,10 +21,10 @@ Add xf-tile.py to your startup. (easisiest way: go to settings -> session and st
 <br />
 **Configuration**<br />
 max_windows_before_fullscreen = how many windows before activating full screen mode. MAX 4<br />
-border  = single border of your decoration window<br />
-gaps = gaps between windows<br />
-upper_panel_height <br />
-lower_panel_height <br />
+border  = single border px of your decoration window<br />
+gaps = gaps in px between windows<br />
+upper_panel_height <br /> upper panel height in px
+lower_panel_height <br /> lower panel height in px
 dynamic_resolution = in case you have a 2 in 1 laptop where resolution changes continuously<br />
 app_to_exclude = applications to exclude from the tiling manager<br />
 app_to_mod = some applications don't detect decorations correctly (for example kitty and vlc), if thats the case put the app name here (to see app names run on a terminal "devilspie2 --debug")<br />
