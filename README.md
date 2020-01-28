@@ -25,7 +25,16 @@ dynamic_resolution = in case you have a 2 in 1 laptop where resolution changes c
 app_to_exclude = applications to exclude from the tiling manager<br />
 app_to_mod = some applications don't detect decorations correctly (for example kitty and vlc), if thats the case put the app name here (to see app names run on a terminal "devilspie2 --debug")<br />
 <br />
+**Shortcuts**<br />
 Shortcuts must be edited inside the script, line 156.<br />
+Super+e        = Set Mode (Tiled/Fullscreen)<br />
+Super+CTRL=e   = Tiling Manager On/Off<br />
+Super+CTRL+r   = Reload Config File<br />
+Super+CTRL+l   = Move active window right<br />
+Super+CTRL+h   = Move active window left<br />
+Super+CTRL+0-9 = Move active window to x workspace<br />
+<br />
+Other shortcuts can be configured directly with XFCE <br />
 <br />
 **Suggestions**<br />
 [Theme](https://www.gnome-look.org/p/1016214/)<br />
