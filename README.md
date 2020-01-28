@@ -10,7 +10,6 @@ Features:<br />
 - Move windows to different workspaces<br />
 - Full screen and tiling mode<br />
 - Config file<br />
-<br />
 I tried to make it as integrated with XFCE as possible. For example, most shortcuts are configurable directly in the xfce settings manager without the need to edit any script or config file.<br />
 <br />
 **Why?**<br />
