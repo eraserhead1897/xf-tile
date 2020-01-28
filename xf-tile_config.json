@@ -1,0 +1,13 @@
+{
+	"max_windows_before_fullscreen" : "4", 
+	"border" : "2",
+	"gaps" : "8",
+	"upper_panel_height" : "36",
+	"lower_panel_height" : "0",
+	"dynamic_resolution" : "0",
+	"app_to_exclude" : [],
+	"app_to_mod" : [
+		"kitty",
+		"vlc"
+		]
+}
