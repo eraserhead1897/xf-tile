@@ -1,8 +1,8 @@
 # xf-tile
 Pseudo Tiling window manager for Xfce DE
-
+<br />
 **What it is?**<br />
-A script to auto-tile up to 4 windows on your current workspace. It Supports 9 workspaces. After the 4th window, it will automatically enter full screen mode.
+A script to auto-tile up to 4 windows on your current workspace. It Supports 9 workspaces. After the 4th window, it will automatically enter full screen mode.<br />
 <br />
 **Dependencies**<br />
 wmctrl<br />
