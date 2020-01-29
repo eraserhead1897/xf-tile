@@ -4,13 +4,7 @@ Pseudo Tiling window manager for Xfce DE<br />
 ![](https://i.ibb.co/ZVnmWbQ/desk1.png)<br /><br />
 ## What it is? <br />
 A script to auto-tile up to 4 windows on your current workspace. It Supports 9 workspaces. After the 4th window, it will automatically enter full screen mode.<br />
-Features:<br />
-- Tiling based on window type detection 
-- Auto tiling without key bindings
-- Move windows to different workspaces
-- Full screen and tiling mode
-- Config file
-<br />
+
 I tried to make it as integrated with XFCE as possible. For example, most shortcuts are configurable directly in the xfce settings manager without the need to edit any script or config file.<br />
 <br />
 ## Why? <br />
