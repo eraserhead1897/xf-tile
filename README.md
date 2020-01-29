@@ -58,4 +58,9 @@ Horizontal panels *not supported<br />
 Themes with not equal window border size *not supported<br />
 <br />
 ## Bugs<br />
-- Not really a bug, but some apps (like Gimp) set a hardcoded minimum window size, so depending on your monitor resolution and number of windows opened, you could get a window going beyond the limits of your screen. Not much i can do, move it to another workspace to have fullscreen mode. (you can also put the app in the exclude list)<br />
+Not really a bug, but some apps (like Gimp) set a hardcoded minimum window size, so depending on your monitor resolution and number of windows opened, you could get a window going beyond the limits of your screen. Not much i can do, move it to another workspace to have fullscreen mode. (you can also put the app in the exclude list)<br />
+<br />
+## Questions<br />
+_Why only 4 windows?_ <br />
+Because thats where i want my windows to go fullscreen. I dont like to work on micro spaces and on my current monitor(1920x1080) i dont see the reason to go beyond that limit considering i have 8 workspaces running.<br />
+That doesn't mean i will not update the script in the future to support more windows.<br />
