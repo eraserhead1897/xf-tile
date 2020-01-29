@@ -54,7 +54,7 @@ Other shortcuts can be configured directly with XFCE <br />
 <br />
 ## Not Supported/Tested<br />
 Multiscreen setups *not tested<br />
-Horizontal panels *not supported<br />
+Vertical panels *not supported<br />
 Themes with not equal window border size *not supported<br />
 <br />
 ## Bugs<br />
