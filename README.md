@@ -22,6 +22,7 @@ If you like XFCE, but you want a more keyboard-driven experience or some basic t
 [pynput](https://pypi.org/project/pynput/) (install with pip)<br />
 [xorg-xev](https://www.x.org/releases/X11R7.7/doc/man/man1/xev.1.xhtml)<br />
 [xorg-xrandr](https://www.x.org/wiki/Projects/XRandR/)<br />
+[xorg-xprop](https://linux.die.net/man/1/xprop)<br />
 <br />
 ## Installation <br />
 Install dependencies. Put xf-tile.py and xf-tile_config.json (edit with right values) inside your home directory. Put devilspie2 folder inside your .config folder.
