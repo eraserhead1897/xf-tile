@@ -2,7 +2,7 @@
 Pseudo Tiling window manager for Xfce DE<br />
 <br />
 ![](https://i.ibb.co/ZVnmWbQ/desk1.png)<br /><br />
-## What it is?<br />
+## What it is? <br />
 A script to auto-tile up to 4 windows on your current workspace. It Supports 9 workspaces. After the 4th window, it will automatically enter full screen mode.<br />
 Features:<br />
 - Tiling based on window type detection <br />
@@ -13,10 +13,10 @@ Features:<br />
 <br />
 I tried to make it as integrated with XFCE as possible. For example, most shortcuts are configurable directly in the xfce settings manager without the need to edit any script or config file.<br />
 <br />
-## Why?<br />
+## Why? <br />
 If you like XFCE, but you want a more keyboard-driven experience or some basic tiling manager functionality without the hassle to install a different WM, then this script may be a good bet.<br />
 <br />
-## Dependencies<br />
+## Dependencies <br />
 [wmctrl](https://linux.die.net/man/1/wmctrl)<br />
 [devilspie2](http://www.nongnu.org/devilspie2/)<br />
 [pynput](https://pypi.org/project/pynput/) (install with pip)<br />
