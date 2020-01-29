@@ -53,9 +53,9 @@ Other shortcuts can be configured directly with XFCE <br />
 [Theme](https://www.gnome-look.org/p/1016214/)<br />
 <br />
 ## Not Supported/Tested<br />
-+ Multiscreen setups *not tested<br />
-+ Horizontal panels *not supported<br />
-+ Themes with not equal window border size *not supported<br />
+Multiscreen setups *not tested<br />
+Horizontal panels *not supported<br />
+Themes with not equal window border size *not supported<br />
 <br />
 ## Bugs<br />
 - Not really a bug, but some apps (like Gimp) set a hardcoded minimum window size, so depending on your monitor resolution and number of windows opened, you could get a window going beyond the limits of your screen. Not much i can do, move it to another workspace to have fullscreen mode. (you can also put the app in the exclude list)<br />
